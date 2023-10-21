@@ -3,6 +3,7 @@ package functional_interface.examples;
 import java.util.Arrays;
 import java.util.List;
 import java.util.function.Consumer;
+import java.util.function.Predicate;
 
 /**
  * Representa uma operação que aceita um argumento do tipo T e não retorna nenhum resultado.
@@ -21,14 +22,11 @@ public class ConsumerExample {
             }
         };
 
-
         //Atividade
         // Usar o Consumer para imprimir números pares no Stream
-        numeros.forEach(n -> {
-             if (n % 2 == 0) {
-                 System.out.println(n);
-             }
-          }
-        );
+        numeros.stream()
+                .filter(n -> n % 2 == 0)
+                .forEach(System.out::println);
+
     }
 }
