@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1166ec2-a21f-4878-84d9-3702b4a7cd9b" name="Changes" comment="" />
+    <list default="true" id="d1166ec2-a21f-4878-84d9-3702b4a7cd9b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Desafio/Desafio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Desafio/Desafio2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Desafio/Desafio3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Desafio/Desafio4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Desafio/Desafio5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional_interface/examples/Optional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,14 +40,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/thamy/OneDrive/EDUCAÇÃO/_DIO BOOTCAMP/_Santander Bootcamp 2023 - Backend Java/Atividades_codigo/Ganhando Produtividade com Stream API/Stream_API_Java/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/thamy/OneDrive/EDUCAÇÃO/_DIO BOOTCAMP/_Santander Bootcamp 2023 - Backend Java/Atividades_codigo/Ganhando Produtividade com Stream API/Stream_API_Java/src/Desafio",
+    "onboarding.tips.debug.path": "C:/Users/thamy/OneDrive/EDUCAÇÃO/_DIO BOOTCAMP/_Santander Bootcamp 2023 - Backend Java/Atividades_codigo/Ganhando Produtividade com Stream API/Stream_API_Java/src/Main.java"
   }
-}</component>
-  <component name="RunManager" selected="Application.BinaryOperatorExample">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\thamy\OneDrive\EDUCAÇÃO\_DIO BOOTCAMP\_Santander Bootcamp 2023 - Backend Java\Atividades_codigo\Ganhando Produtividade com Stream API\Stream_API_Java\src\Desafio" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Desafio" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.OptionalExample">
     <configuration name="BinaryOperatorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="functional_interface.examples.BinaryOperatorExample" />
       <module name="Stream_API_Java" />
@@ -52,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConsumerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functional_interface.examples.ConsumerExample" />
+    <configuration name="Desafio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Desafio.Desafio2" />
       <module name="Stream_API_Java" />
       <extension name="coverage">
         <pattern>
@@ -65,8 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functional_interface.examples.FunctionExample" />
+    <configuration name="Desafio3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Desafio.Desafio3" />
       <module name="Stream_API_Java" />
       <extension name="coverage">
         <pattern>
@@ -78,8 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PredicateExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functional_interface.examples.PredicateExample" />
+    <configuration name="Desafio5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Desafio.Desafio5" />
       <module name="Stream_API_Java" />
       <extension name="coverage">
         <pattern>
@@ -91,8 +110,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SupplierExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functional_interface.examples.SupplierExample" />
+    <configuration name="OptionalExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functional_interface.examples.OptionalExample" />
       <module name="Stream_API_Java" />
       <extension name="coverage">
         <pattern>
@@ -106,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OptionalExample" />
+        <item itemvalue="Application.Desafio5" />
+        <item itemvalue="Application.Desafio3" />
+        <item itemvalue="Application.Desafio2" />
         <item itemvalue="Application.BinaryOperatorExample" />
-        <item itemvalue="Application.ConsumerExample" />
-        <item itemvalue="Application.PredicateExample" />
-        <item itemvalue="Application.FunctionExample" />
-        <item itemvalue="Application.SupplierExample" />
       </list>
     </recent_temporary>
   </component>
