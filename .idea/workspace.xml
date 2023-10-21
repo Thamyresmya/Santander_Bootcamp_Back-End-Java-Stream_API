@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1166ec2-a21f-4878-84d9-3702b4a7cd9b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/functional_interface/examples/BinaryOperatorExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/functional_interface/examples/PredicateExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional_interface/examples/PredicateExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +41,20 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/thamy/OneDrive/EDUCAÇÃO/_DIO BOOTCAMP/_Santander Bootcamp 2023 - Backend Java/Atividades_codigo/Ganhando Produtividade com Stream API/Stream_API_Java/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ConsumerExample">
+  <component name="RunManager" selected="Application.BinaryOperatorExample">
+    <configuration name="BinaryOperatorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functional_interface.examples.BinaryOperatorExample" />
+      <module name="Stream_API_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="functional_interface.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ConsumerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="functional_interface.examples.ConsumerExample" />
       <module name="Stream_API_Java" />
@@ -96,6 +109,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinaryOperatorExample" />
         <item itemvalue="Application.ConsumerExample" />
         <item itemvalue="Application.PredicateExample" />
         <item itemvalue="Application.FunctionExample" />
